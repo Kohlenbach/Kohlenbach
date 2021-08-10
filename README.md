@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kohlenbach
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React with Next, and Design with Figma
+- 🌱 I’m currently learning Nextjs and Prisma good practices for large projects
 - 💞️ I’m looking to collaborate on awesome projects
 - 📫 How to reach me - [My linkedin](https://www.linkedin.com/in/lukas-kohlenbach-a70568191/)
 
