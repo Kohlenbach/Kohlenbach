@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kohlenbach
-- 👀 I’m interested in Web Development and Games
-- 🌱 I’m currently learning Nextjs and Prisma good practices for large projects
+- 👀 I’m interested in the Furute of the Web and Games
+- 🌱 I’m currently learning Sveltekit
 - 💞️ I’m looking to collaborate on awesome projects
 - 📫 How to reach me - [My linkedin](https://www.linkedin.com/in/lukas-kohlenbach-a70568191/)
 
