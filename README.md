@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kohlenbach
-- 👀 I’m interested in the Furute of the Web and Games
-- 🌱 I’m currently learning Sveltekit
+- 👀 I’m interested in the Furute of the Web, Games and Human Psychology
+- 🌱 I’m currently working/learning software development
 - 💞️ I’m looking to collaborate on awesome projects
 - 📫 How to reach me - [My linkedin](https://www.linkedin.com/in/lukas-kohlenbach-a70568191/)
 
